@@ -1,0 +1,5 @@
+1. Crear un proyecto en una carpeta individual.
+2. Iniciamos una repo con git local.
+3. Iniciamos un repo en git Hub.
+4. Hacemos un push del proyecto.
+5. Vamos a settings en git Hub y seleccionamos en Git Hub pages.
